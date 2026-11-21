@@ -82,7 +82,6 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 
 - [23 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/23%20-%20Box%20chart.png)
 - [24 - Notes and rules for 23](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/24%20-%20Notes%20and%20rules%20for%2023.png)
-- [25 - Cube types by boxes - Standard](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25%20-%20Cube%20types%20by%20boxes%20-%20Standard.png)
 - [25c - Cube types by boxes - Companion](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25c%20-%20Cube%20types%20by%20boxes%20-%20Companion.png)
 - [25e - Cube types by boxes - Reflection](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25e%20-%20Cube%20types%20by%20boxes%20-%20Reflection.png)
 - [25g - Cube types by boxes - Old-Style](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25g%20-%20Cube%20types%20by%20boxes%20-%20Old-Style.png)
