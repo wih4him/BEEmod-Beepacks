@@ -70,26 +70,6 @@
   "src": "Portal Cube/2 - Portal Cube - Cube Types by boxes.png"
  },
  {
-  "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13: Cube Type Companion, boxes by boxes",
-  "src": "Portal Cube/3 - The Portal Cube, one pack 2_13 - Cube Type Companion, boxes by boxes.png"
- },
- {
-  "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13: Cube Type Reflection, boxes by boxes",
-  "src": "Portal Cube/4 - The Portal Cube, one pack 2_13 - Cube Type Reflection, boxes by boxes.png"
- },
- {
-  "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13: Cube Type Sphere, boxes by boxes",
-  "src": "Portal Cube/5 - The Portal Cube, one pack 2_13 - Cube Type Sphere, boxes by boxes.png"
- },
- {
-  "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13: Cube Type Franken, boxes by boxes",
-  "src": "Portal Cube/6 - The Portal Cube, one pack 2_13 - Cube Type Franken, boxes by boxes.png"
- },
- {
   "item": "Turret Target Flip Panel",
   "title": "Turret Target Flip Panel: box chart",
   "short": "Box chart",
@@ -112,8 +92,10 @@
  },
  {
   "item": "Tetrahedral Cube",
-  "title": "The Tetracube, pressing #51, the one pack 2.13: boxes by boxes, for each Cube Type (Companion, Reflection, Old-Style, IcosoKey)",
-  "src": "Tetrahedral Cube/2 - The Tetracube, pressing #51, the one pack 2.13 - boxes by boxes, for each Cube Type (Companion, Reflection, Old-Style, IcosoKey).png"
+  "title": "Tetrahedral Cube: Cube Types by checkboxes",
+  "src": "Tetrahedral Cube/2 - Tetrahedral Cube - Cube Types by checkboxes.png",
+  "short": "Cube Types by checkboxes",
+  "drawn": "drawn for one pack 2_33"
  },
  {
   "item": "Tetrabutton (Tributton)",
