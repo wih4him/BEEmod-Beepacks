@@ -64,7 +64,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Turret Detection Plate**
 
-- 19: [Turret Detection Plate: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/1%20-%20Turret%20Detection%20Plate%20-%20box%20chart.png), drawn for one pack 2_13
+- 19: [Turret Detection Plate: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/1%20-%20Turret%20Detection%20Plate%20-%20box%20chart.png), drawn for one pack 2_33
 - 20: [Turret Detection Plate: Cube Types by checkboxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/2%20-%20Turret%20Detection%20Plate%20-%20Cube%20Types%20by%20checkboxes.png), drawn for one pack 2_33
 
 **Remote-Control Device (Universal Remote)**
