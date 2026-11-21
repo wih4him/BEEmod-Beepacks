@@ -21,4 +21,4 @@ Item packs for BEEmod, for Portal 2's Puzzle Maker. Each pack has its own folder
 
 Each pack's README lists its items, its credits and anything it writes on your computer.
 
-TurretsTessersTetras also has a box chart for every item: [TurretsTessersTetras/charts](TurretsTessersTetras/charts/README.md).
+TurretsTessersTetras also has a box chart for every item: [TurretsTessersTetras/charts](TurretsTessersTetras/charts/README.md), with a viewer that steps through every chart.
