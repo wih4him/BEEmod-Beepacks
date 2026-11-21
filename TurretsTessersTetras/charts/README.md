@@ -79,4 +79,4 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Turret Recharging Station**
 
-- 25: [Turret Recharging Station: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Recharging%20Station/1%20-%20Turret%20Recharging%20Station%20-%20box%20chart.png), drawn for one pack 2_28
+- 25: [Turret Recharging Station: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Recharging%20Station/1%20-%20Turret%20Recharging%20Station%20-%20box%20chart.png), drawn for one pack 2_33
