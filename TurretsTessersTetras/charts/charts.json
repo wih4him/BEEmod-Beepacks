@@ -6,8 +6,8 @@
  },
  {
   "item": "T-Stop-Slow",
-  "title": "The T-Stop/Slow, pressing #34: types by boxes, every cell",
-  "src": "T-Stop-Slow/2 - The T-Stop-Slow, pressing #34 - types by boxes, every cell.png"
+  "title": "The T-Stop/Slow, pressing #34: Timer by boxes (every Timer value against every box)",
+  "src": "T-Stop-Slow/2 - The T-Stop-Slow, pressing #34 - Timer by boxes (every Timer value against every box).png"
  },
  {
   "item": "Zemeckis Cube",
@@ -16,8 +16,8 @@
  },
  {
   "item": "Zemeckis Cube",
-  "title": "The Zemeckis Cube, pressing #41, one pack 2_13: Timer by boxes, every cell",
-  "src": "Zemeckis Cube/2 - The Zemeckis Cube, pressing #41, one pack 2_13 - Timer by boxes, every cell.png"
+  "title": "The Zemeckis Cube, pressing #41, one pack 2_13: Timer by boxes (every Timer value against every box)",
+  "src": "Zemeckis Cube/2 - The Zemeckis Cube, pressing #41, one pack 2_13 - Timer by boxes (every Timer value against every box).png"
  },
  {
   "item": "Tessers",
@@ -31,8 +31,8 @@
  },
  {
   "item": "Multidimensional Button",
-  "title": "Multidimensional Button, one pack 2_13: types by boxes",
-  "src": "Multidimensional Button/2 - Multidimensional Button, one pack 2_13 - types by boxes.png"
+  "title": "Multidimensional Button, one pack 2_13: boxes by boxes, for each Button Type",
+  "src": "Multidimensional Button/2 - Multidimensional Button, one pack 2_13 - boxes by boxes, for each Button Type.png"
  },
  {
   "item": "Player-Tesser",
@@ -46,28 +46,28 @@
  },
  {
   "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13: Cube Types by boxes, every Cube Type side by side",
-  "src": "Portal Cube/2 - The Portal Cube, one pack 2_13 - Cube Types by boxes, every Cube Type side by side.png"
+  "title": "The Portal Cube, one pack 2_13: Cube Types by boxes (every Cube Type against every box)",
+  "src": "Portal Cube/2 - The Portal Cube, one pack 2_13 - Cube Types by boxes (every Cube Type against every box).png"
  },
  {
   "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13, Cube Type Companion: every pair of boxes, then no boxes, then three boxes or more",
-  "src": "Portal Cube/3 - The Portal Cube, one pack 2_13, Cube Type Companion - every pair of boxes, then no boxes, then three boxes or more.png"
+  "title": "The Portal Cube, one pack 2_13: Cube Type Companion, boxes by boxes",
+  "src": "Portal Cube/3 - The Portal Cube, one pack 2_13 - Cube Type Companion, boxes by boxes.png"
  },
  {
   "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13, Cube Type Reflection: every pair of boxes, then no boxes, then three boxes or more",
-  "src": "Portal Cube/4 - The Portal Cube, one pack 2_13, Cube Type Reflection - every pair of boxes, then no boxes, then three boxes or more.png"
+  "title": "The Portal Cube, one pack 2_13: Cube Type Reflection, boxes by boxes",
+  "src": "Portal Cube/4 - The Portal Cube, one pack 2_13 - Cube Type Reflection, boxes by boxes.png"
  },
  {
   "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13, Cube Type Sphere: every pair of boxes, then no boxes, then three boxes or more",
-  "src": "Portal Cube/5 - The Portal Cube, one pack 2_13, Cube Type Sphere - every pair of boxes, then no boxes, then three boxes or more.png"
+  "title": "The Portal Cube, one pack 2_13: Cube Type Sphere, boxes by boxes",
+  "src": "Portal Cube/5 - The Portal Cube, one pack 2_13 - Cube Type Sphere, boxes by boxes.png"
  },
  {
   "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13, Cube Type Franken: every pair of boxes, then no boxes, then three boxes or more",
-  "src": "Portal Cube/6 - The Portal Cube, one pack 2_13, Cube Type Franken - every pair of boxes, then no boxes, then three boxes or more.png"
+  "title": "The Portal Cube, one pack 2_13: Cube Type Franken, boxes by boxes",
+  "src": "Portal Cube/6 - The Portal Cube, one pack 2_13 - Cube Type Franken, boxes by boxes.png"
  },
  {
   "item": "Turret Target Flip Panel",
@@ -81,8 +81,8 @@
  },
  {
   "item": "Tetrahedral Cube",
-  "title": "The Tetracube, pressing #51, the one pack 2.13: Cube Types by boxes, Companion, Reflection, Old-Style and IcosoKey",
-  "src": "Tetrahedral Cube/2 - The Tetracube, pressing #51, the one pack 2.13 - Cube Types by boxes, Companion, Reflection, Old-Style and IcosoKey.png"
+  "title": "The Tetracube, pressing #51, the one pack 2.13: boxes by boxes, for each Cube Type (Companion, Reflection, Old-Style, IcosoKey)",
+  "src": "Tetrahedral Cube/2 - The Tetracube, pressing #51, the one pack 2.13 - boxes by boxes, for each Cube Type (Companion, Reflection, Old-Style, IcosoKey).png"
  },
  {
   "item": "Tetrabutton (Tributton)",
@@ -91,8 +91,8 @@
  },
  {
   "item": "Tetrabutton (Tributton)",
-  "title": "The Tetrabutton, pressing #47, the one pack 2.13: Button Types by boxes, every cell",
-  "src": "Tetrabutton (Tributton)/2 - The Tetrabutton, pressing #47, the one pack 2.13 - Button Types by boxes, every cell.png"
+  "title": "The Tetrabutton, pressing #47, the one pack 2.13: Button Types by boxes (every Button Type against every box)",
+  "src": "Tetrabutton (Tributton)/2 - The Tetrabutton, pressing #47, the one pack 2.13 - Button Types by boxes (every Button Type against every box).png"
  },
  {
   "item": "Rotatable Faith Plate",
@@ -101,8 +101,8 @@
  },
  {
   "item": "Rotatable Faith Plate",
-  "title": "Rotatable Faith Plate, one pack 2_13: types by boxes",
-  "src": "Rotatable Faith Plate/2 - Rotatable Faith Plate, one pack 2_13 - types by boxes.png"
+  "title": "Rotatable Faith Plate, one pack 2_13: boxes by boxes, for each Cube Type",
+  "src": "Rotatable Faith Plate/2 - Rotatable Faith Plate, one pack 2_13 - boxes by boxes, for each Cube Type.png"
  },
  {
   "item": "Turret Detection Plate",
@@ -111,8 +111,8 @@
  },
  {
   "item": "Turret Detection Plate",
-  "title": "Turret Detection Plate, one pack 2_13: types by boxes",
-  "src": "Turret Detection Plate/2 - Turret Detection Plate, one pack 2_13 - types by boxes.png"
+  "title": "Turret Detection Plate, one pack 2_13: boxes by boxes, for each Cube Type",
+  "src": "Turret Detection Plate/2 - Turret Detection Plate, one pack 2_13 - boxes by boxes, for each Cube Type.png"
  },
  {
   "item": "Remote-Control Device (Universal Remote)",
@@ -121,8 +121,8 @@
  },
  {
   "item": "Remote-Control Device (Universal Remote)",
-  "title": "Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13: types by boxes",
-  "src": "Remote-Control Device (Universal Remote)/2 - Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13 - types by boxes.png"
+  "title": "Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13: boxes by boxes, for each Cube Type",
+  "src": "Remote-Control Device (Universal Remote)/2 - Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13 - boxes by boxes, for each Cube Type.png"
  },
  {
   "item": "Projectile Detection-Retention Filter",
