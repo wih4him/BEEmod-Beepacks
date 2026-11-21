@@ -69,7 +69,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Remote-Control Device (Universal Remote)**
 
-- 21: [Remote-Control Device (Universal Remote): box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/1%20-%20Remote-Control%20Device%20%28Universal%20Remote%29%20-%20box%20chart.png), drawn for one pack 2_13
+- 21: [Remote-Control Device (Universal Remote): box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/1%20-%20Remote-Control%20Device%20%28Universal%20Remote%29%20-%20box%20chart.png), drawn for one pack 2_33
 - 22: [Remote-Control Device (Universal Remote): Cube Types by checkboxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/2%20-%20Remote-Control%20Device%20%28Universal%20Remote%29%20-%20Cube%20Types%20by%20checkboxes.png), drawn for one pack 2_33
 
 **Projectile Detection-Retention Filter**
