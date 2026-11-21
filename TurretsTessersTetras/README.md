@@ -25,6 +25,8 @@ An item pack for BEEmod, for Portal 2's Puzzle Maker: turrets, tessers and tetra
 
 Each item's description in BEEmod explains its boxes, inputs and controls.
 
+Every item's box charts are in [charts](charts/README.md): what each item does for every combination of its boxes and inputs.
+
 ## Requirements
 
 - Portal 2
