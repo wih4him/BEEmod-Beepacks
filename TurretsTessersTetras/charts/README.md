@@ -59,7 +59,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Rotatable Faith Plate**
 
-- 17: [Rotatable Faith Plate: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/1%20-%20Rotatable%20Faith%20Plate%20-%20box%20chart.png), drawn for one pack 2_13
+- 17: [Rotatable Faith Plate: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/1%20-%20Rotatable%20Faith%20Plate%20-%20box%20chart.png), drawn for one pack 2_33
 - 18: [Rotatable Faith Plate: Cube Types by checkboxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/2%20-%20Rotatable%20Faith%20Plate%20-%20Cube%20Types%20by%20checkboxes.png), drawn for one pack 2_33
 
 **Turret Detection Plate**
