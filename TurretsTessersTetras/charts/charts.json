@@ -1,33 +1,45 @@
 [
  {
-  "item": "T-Stop-Slow",
-  "title": "The T-Stop/Slow, pressing #34: every cell",
-  "src": "T-Stop-Slow/1 - The T-Stop-Slow, pressing #34 - every cell.png"
+  "item": "T-Stop/Slow",
+  "title": "T-Stop/Slow: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for pressing #34",
+  "src": "T-Stop-Slow/1 - T-Stop-Slow - box chart.png"
  },
  {
-  "item": "T-Stop-Slow",
-  "title": "The T-Stop/Slow, pressing #34: Timer by boxes (every Timer value against every box)",
-  "src": "T-Stop-Slow/2 - The T-Stop-Slow, pressing #34 - Timer by boxes (every Timer value against every box).png"
+  "item": "T-Stop/Slow",
+  "title": "T-Stop/Slow: Timer by boxes",
+  "short": "Timer by boxes",
+  "drawn": "drawn for pressing #34",
+  "src": "T-Stop-Slow/2 - T-Stop-Slow - Timer by boxes.png"
  },
  {
   "item": "Zemeckis Cube",
-  "title": "The Zemeckis Cube, pressing #41, one pack 2_13: box chart, every cell",
-  "src": "Zemeckis Cube/1 - The Zemeckis Cube, pressing #41, one pack 2_13 - box chart, every cell.png"
+  "title": "Zemeckis Cube: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for pressing #41, one pack 2_13",
+  "src": "Zemeckis Cube/1 - Zemeckis Cube - box chart.png"
  },
  {
   "item": "Zemeckis Cube",
-  "title": "The Zemeckis Cube, pressing #41, one pack 2_13: Timer by boxes (every Timer value against every box)",
-  "src": "Zemeckis Cube/2 - The Zemeckis Cube, pressing #41, one pack 2_13 - Timer by boxes (every Timer value against every box).png"
+  "title": "Zemeckis Cube: Timer by boxes",
+  "short": "Timer by boxes",
+  "drawn": "drawn for pressing #41, one pack 2_13",
+  "src": "Zemeckis Cube/2 - Zemeckis Cube - Timer by boxes.png"
  },
  {
   "item": "Tessers",
-  "title": "Tessers, one pack 2_13: box chart, every cell",
-  "src": "Tessers/1 - Tessers, one pack 2_13 - box chart, every cell.png"
+  "title": "Tessers: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Tessers/1 - Tessers - box chart.png"
  },
  {
   "item": "Multidimensional Button",
-  "title": "Multidimensional Button, one pack 2_13: box chart, every cell",
-  "src": "Multidimensional Button/1 - Multidimensional Button, one pack 2_13 - box chart, every cell.png"
+  "title": "Multidimensional Button: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Multidimensional Button/1 - Multidimensional Button - box chart.png"
  },
  {
   "item": "Multidimensional Button",
@@ -36,18 +48,24 @@
  },
  {
   "item": "Player-Tesser",
-  "title": "Player-Tesser, one pack 2_13: box chart, every cell",
-  "src": "Player-Tesser/1 - Player-Tesser, one pack 2_13 - box chart, every cell.png"
+  "title": "Player-Tesser: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Player-Tesser/1 - Player-Tesser - box chart.png"
  },
  {
   "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13: every pair of boxes, then no boxes, then three boxes or more",
-  "src": "Portal Cube/1 - The Portal Cube, one pack 2_13 - every pair of boxes, then no boxes, then three boxes or more.png"
+  "title": "Portal Cube: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Portal Cube/1 - Portal Cube - box chart.png"
  },
  {
   "item": "Portal Cube",
-  "title": "The Portal Cube, one pack 2_13: Cube Types by boxes (every Cube Type against every box)",
-  "src": "Portal Cube/2 - The Portal Cube, one pack 2_13 - Cube Types by boxes (every Cube Type against every box).png"
+  "title": "Portal Cube: Cube Types by boxes",
+  "short": "Cube Types by boxes",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Portal Cube/2 - Portal Cube - Cube Types by boxes.png"
  },
  {
   "item": "Portal Cube",
@@ -71,13 +89,24 @@
  },
  {
   "item": "Turret Target Flip Panel",
-  "title": "The Turret Target Flip Panel, one pack 2_13: every cell",
-  "src": "Turret Target Flip Panel/1 - The Turret Target Flip Panel, one pack 2_13 - every cell.png"
+  "title": "Turret Target Flip Panel: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Turret Target Flip Panel/1 - Turret Target Flip Panel - box chart.png"
+ },
+ {
+  "item": "Turret Target Flip Panel",
+  "title": "Turret Target Flip Panel: box chart (simple version)",
+  "short": "Box chart (simple version)",
+  "drawn": "drawn for one pack 2_13; words only, no pictures in the cells",
+  "src": "Turret Target Flip Panel/2 - Turret Target Flip Panel - box chart (simple version).png"
  },
  {
   "item": "Tetrahedral Cube",
-  "title": "The Tetracube (Standard), pressing #51, the one pack 2.13: every pair of boxes, then no boxes and three boxes or more",
-  "src": "Tetrahedral Cube/1 - The Tetracube (Standard), pressing #51, the one pack 2.13 - every pair of boxes, then no boxes and three boxes or more.png"
+  "title": "Tetrahedral Cube: box chart, Cube Type Standard",
+  "short": "Box chart",
+  "drawn": "drawn for pressing #51, one pack 2.13",
+  "src": "Tetrahedral Cube/1 - Tetrahedral Cube - box chart, Cube Type Standard.png"
  },
  {
   "item": "Tetrahedral Cube",
@@ -86,18 +115,24 @@
  },
  {
   "item": "Tetrabutton (Tributton)",
-  "title": "The Tetrabutton (Weighted), pressing #47, the one pack 2.13: every cell",
-  "src": "Tetrabutton (Tributton)/1 - The Tetrabutton (Weighted), pressing #47, the one pack 2.13 - every cell.png"
+  "title": "Tetrabutton (Tributton): box chart, Button Type Weighted",
+  "short": "Box chart",
+  "drawn": "drawn for pressing #47, one pack 2.13",
+  "src": "Tetrabutton (Tributton)/1 - Tetrabutton (Tributton) - box chart, Button Type Weighted.png"
  },
  {
   "item": "Tetrabutton (Tributton)",
-  "title": "The Tetrabutton, pressing #47, the one pack 2.13: Button Types by boxes (every Button Type against every box)",
-  "src": "Tetrabutton (Tributton)/2 - The Tetrabutton, pressing #47, the one pack 2.13 - Button Types by boxes (every Button Type against every box).png"
+  "title": "Tetrabutton (Tributton): Button Types by boxes",
+  "short": "Button Types by boxes",
+  "drawn": "drawn for pressing #47, one pack 2.13",
+  "src": "Tetrabutton (Tributton)/2 - Tetrabutton (Tributton) - Button Types by boxes.png"
  },
  {
   "item": "Rotatable Faith Plate",
-  "title": "Rotatable Faith Plate, one pack 2_13: box chart, every cell",
-  "src": "Rotatable Faith Plate/1 - Rotatable Faith Plate, one pack 2_13 - box chart, every cell.png"
+  "title": "Rotatable Faith Plate: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Rotatable Faith Plate/1 - Rotatable Faith Plate - box chart.png"
  },
  {
   "item": "Rotatable Faith Plate",
@@ -106,8 +141,10 @@
  },
  {
   "item": "Turret Detection Plate",
-  "title": "Turret Detection Plate, one pack 2_13: box chart, every cell",
-  "src": "Turret Detection Plate/1 - Turret Detection Plate, one pack 2_13 - box chart, every cell.png"
+  "title": "Turret Detection Plate: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Turret Detection Plate/1 - Turret Detection Plate - box chart.png"
  },
  {
   "item": "Turret Detection Plate",
@@ -116,8 +153,10 @@
  },
  {
   "item": "Remote-Control Device (Universal Remote)",
-  "title": "Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13: box chart, every cell",
-  "src": "Remote-Control Device (Universal Remote)/1 - Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13 - box chart, every cell.png"
+  "title": "Remote-Control Device (Universal Remote): box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_13",
+  "src": "Remote-Control Device (Universal Remote)/1 - Remote-Control Device (Universal Remote) - box chart.png"
  },
  {
   "item": "Remote-Control Device (Universal Remote)",
@@ -126,17 +165,16 @@
  },
  {
   "item": "Projectile Detection-Retention Filter",
-  "title": "Projectile Detection-Retention Filter, one pack 2_12: every cell",
-  "src": "Projectile Detection-Retention Filter/1 - Projectile Detection-Retention Filter, one pack 2_12 - every cell.png"
+  "title": "Projectile Detection-Retention Filter: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_12",
+  "src": "Projectile Detection-Retention Filter/1 - Projectile Detection-Retention Filter - box chart.png"
  },
  {
   "item": "Turret Recharging Station",
-  "title": "The Turret Recharging Station, one pack 2_28: every cell",
-  "src": "Turret Recharging Station/1 - The Turret Recharging Station, one pack 2_28 - every cell.png"
- },
- {
-  "item": "Turret Target Flip Panel",
-  "title": "The Turret Target Flip Panel, one pack 2_13: every cell (earlier version)",
-  "src": "Turret Target Flip Panel/older/1 - The Turret Target Flip Panel, one pack 2_13 - every cell (earlier version).png"
+  "title": "Turret Recharging Station: box chart",
+  "short": "Box chart",
+  "drawn": "drawn for one pack 2_28",
+  "src": "Turret Recharging Station/1 - Turret Recharging Station - box chart.png"
  }
 ]
