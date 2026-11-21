@@ -34,7 +34,7 @@ The model each item shows in the Puzzle Maker. The Stack-o-Lantern has one for e
 
 ## Installing (once released)
 
-Download the `.bee_pack` file from Releases and put it in BEEmod's `packages` folder. Then restart BEEmod.
+Download [`WIH_Hallowcraft.bee_pack`](https://github.com/wih4him/BEEmod-Beepacks/raw/main/Hallowcraft/WIH_Hallowcraft.bee_pack) and put it in BEEmod's `packages` folder. Then restart BEEmod.
 
 ## Thanks
 
