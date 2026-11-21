@@ -120,8 +120,10 @@
  },
  {
   "item": "Rotatable Faith Plate",
-  "title": "Rotatable Faith Plate, one pack 2_13: boxes by boxes, for each Cube Type",
-  "src": "Rotatable Faith Plate/2 - Rotatable Faith Plate, one pack 2_13 - boxes by boxes, for each Cube Type.png"
+  "title": "Rotatable Faith Plate: Cube Types by checkboxes",
+  "src": "Rotatable Faith Plate/2 - Rotatable Faith Plate - Cube Types by checkboxes.png",
+  "short": "Cube Types by checkboxes",
+  "drawn": "drawn for one pack 2_33"
  },
  {
   "item": "Turret Detection Plate",
