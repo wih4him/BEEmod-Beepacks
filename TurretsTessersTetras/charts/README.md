@@ -36,7 +36,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Player-Tesser**
 
-- 9: [Player-Tesser: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Player-Tesser/1%20-%20Player-Tesser%20-%20box%20chart.png), drawn for one pack 2_13
+- 9: [Player-Tesser: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Player-Tesser/1%20-%20Player-Tesser%20-%20box%20chart.png), drawn for one pack 2_33
 
 **Portal Cube**
 
