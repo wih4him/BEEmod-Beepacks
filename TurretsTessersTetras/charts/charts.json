@@ -29,10 +29,10 @@
  },
  {
   "item": "Zemeckis Cube",
-  "title": "Zemeckis Cube: Timer by boxes",
-  "short": "Timer by boxes",
-  "drawn": "drawn for pressing #41, one pack 2_13",
-  "src": "Zemeckis Cube/2 - Zemeckis Cube - Timer by boxes.png"
+  "title": "Zemeckis Cube: Timer by checkboxes",
+  "short": "Timer by checkboxes",
+  "drawn": "drawn for one pack 2_33",
+  "src": "Zemeckis Cube/2 - Zemeckis Cube - Timer by checkboxes.png"
  },
  {
   "item": "Tessers",
