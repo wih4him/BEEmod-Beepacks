@@ -49,7 +49,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Tetrahedral Cube**
 
-- 13: [Tetrahedral Cube: box chart, Cube Type Standard](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/1%20-%20Tetrahedral%20Cube%20-%20box%20chart%2C%20Cube%20Type%20Standard.png), drawn for pressing #51, one pack 2.13
+- 13: [Tetrahedral Cube: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/1%20-%20Tetrahedral%20Cube%20-%20box%20chart.png), drawn for one pack 2_33
 - 14: [Tetrahedral Cube: Cube Types by checkboxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/2%20-%20Tetrahedral%20Cube%20-%20Cube%20Types%20by%20checkboxes.png), drawn for one pack 2_33
 
 **Tetrabutton (Tributton)**
