@@ -26,7 +26,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Tessers**
 
-- 5: [Tessers: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tessers/1%20-%20Tessers%20-%20box%20chart.png), drawn for one pack 2_13
+- 5: [Tessers: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tessers/1%20-%20Tessers%20-%20box%20chart.png), drawn for one pack 2_33
 
 **Multidimensional Button**
 
@@ -74,7 +74,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Projectile Detection-Retention Filter**
 
-- 23: [Projectile Detection-Retention Filter: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Projectile%20Detection-Retention%20Filter/1%20-%20Projectile%20Detection-Retention%20Filter%20-%20box%20chart.png), drawn for one pack 2_12
+- 23: [Projectile Detection-Retention Filter: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Projectile%20Detection-Retention%20Filter/1%20-%20Projectile%20Detection-Retention%20Filter%20-%20box%20chart.png), drawn for one pack 2_33
 
 **Turret Recharging Station**
 
