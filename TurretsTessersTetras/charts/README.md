@@ -22,7 +22,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Zemeckis Cube**
 
-- 4: [Zemeckis Cube: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Zemeckis%20Cube/1%20-%20Zemeckis%20Cube%20-%20box%20chart.png), drawn for pressing #41, one pack 2_13
+- 4: [Zemeckis Cube: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Zemeckis%20Cube/1%20-%20Zemeckis%20Cube%20-%20box%20chart.png), drawn for one pack 2_33
 - 5: [Zemeckis Cube: Timer by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Zemeckis%20Cube/2%20-%20Zemeckis%20Cube%20-%20Timer%20by%20boxes.png), drawn for pressing #41, one pack 2_13
 
 **Tessers**
