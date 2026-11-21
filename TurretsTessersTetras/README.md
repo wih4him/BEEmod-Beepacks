@@ -14,7 +14,7 @@ An item pack for BEEmod, for Portal 2's Puzzle Maker: turrets, tessers and tetra
 - **Tetrahedral Cube** (Standard, Companion, Reflection, Sphere and IcosoKey forms, chosen with the Cube Type, plus the heart Companion, which shows a broken heart when it fizzles)
 - **Tetrabutton (Tributton)**
 - **Rotatable Faith Plate**
-- **Turret Detection Plate (AND)**
+- **Turret Detection Plate**
 - **Turret-Portal and Focused-Energy Remote-Control Device (Universal Remote)**
 - **Turret Recharging Station**
 - **Portal Turret [Stationary]**

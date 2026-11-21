@@ -22,7 +22,7 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 - [Tetrahedral Cube](#tetrahedral-cube)
 - [Tetrabutton (Tributton)](#tetrabutton-tributton)
 - [Rotatable Faith Plate](#rotatable-faith-plate)
-- [Turret Detection Plate (AND)](#turret-detection-plate-and)
+- [Turret Detection Plate](#turret-detection-plate)
 - [Remote-Control Device (Universal Remote)](#remote-control-device-universal-remote)
 - [Projectile Detection-Retention Filter](#projectile-detection-retention-filter)
 - [Turret Recharging Station](#turret-recharging-station)
@@ -117,15 +117,15 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 - [33d - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
 - [34 - Notes and rules for 33](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/34%20-%20Notes%20and%20rules%20for%2033.png)
 
-## Turret Detection Plate (AND)
+## Turret Detection Plate
 
-- [35 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/35%20-%20Box%20chart.png)
-- [36 - Notes and rules for 35](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/36%20-%20Notes%20and%20rules%20for%2035.png)
-- [37 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37%20-%20Types%20by%20boxes.png)
-- [37b - Types by boxes - Reflection, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [37c - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [37d - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [38 - Notes and rules for 37](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/38%20-%20Notes%20and%20rules%20for%2037.png)
+- [35 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/35%20-%20Box%20chart.png)
+- [36 - Notes and rules for 35](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/36%20-%20Notes%20and%20rules%20for%2035.png)
+- [37 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37%20-%20Types%20by%20boxes.png)
+- [37b - Types by boxes - Reflection, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [37c - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [37d - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [38 - Notes and rules for 37](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/38%20-%20Notes%20and%20rules%20for%2037.png)
 
 ## Remote-Control Device (Universal Remote)
 
