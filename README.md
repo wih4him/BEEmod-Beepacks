@@ -32,9 +32,13 @@ Each item's description in BEEmod explains its boxes, inputs and controls.
 
 ## Installing
 
-Download `U_WIH_G_TURRETSTESSERSTETRAS_2_20.bee_pack` and put it in BEEmod's `packages` folder. Then restart BEEmod.
+Download `U_WIH_G_TURRETSTESSERSTETRAS_2_33.bee_pack` and put it in BEEmod's `packages` folder. Then restart BEEmod.
 
 **Updating from an older version:** each version has its own item IDs, so BEEmod cannot export a palette that still holds items from an older version. Take the old items out of the palette and put the new ones in. Remove the older `.bee_pack` from the `packages` folder too.
+
+## Works with Portal: Ballistics Elements
+
+These items also work beside the Portal: Ballistics Elements pack, installed as its own separate pack. Their turrets aim at their own targets first. The Turret Recharging Station recharges their turrets and turns them into Frankenturrets in their stripe colour. The Portal Cube shows an orange dashed ring when bullets hit it. Neither pack changes the other.
 
 ## Files these items write on your computer
 
@@ -51,3 +55,5 @@ These saves stay after the pack is removed. They show in Portal 2's Load Game li
 ## Thanks
 
 A big thank-you to Valve and the Portal 2 team, and to the entire BEEmod community. Their game and mod made this set of items possible.
+
+The Portal Cube's Target and the Turret Target Flip Panel follow the Target Cube and target flip panel concepts of the Portal: Ballistics Elements team (Wonderland_War, asd417, garmezon, Snazz and canister0), used with permission, and the Turret Recharging Station grew from an idea by Wonderland_War.
