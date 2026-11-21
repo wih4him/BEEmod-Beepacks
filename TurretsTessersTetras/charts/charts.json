@@ -134,8 +134,10 @@
  },
  {
   "item": "Turret Detection Plate",
-  "title": "Turret Detection Plate, one pack 2_13: boxes by boxes, for each Cube Type",
-  "src": "Turret Detection Plate/2 - Turret Detection Plate, one pack 2_13 - boxes by boxes, for each Cube Type.png"
+  "title": "Turret Detection Plate: Cube Types by checkboxes",
+  "src": "Turret Detection Plate/2 - Turret Detection Plate - Cube Types by checkboxes.png",
+  "short": "Cube Types by checkboxes",
+  "drawn": "drawn for one pack 2_33"
  },
  {
   "item": "Remote-Control Device (Universal Remote)",
