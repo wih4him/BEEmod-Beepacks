@@ -51,7 +51,7 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 - [11 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/11%20-%20Box%20chart.png)
 - [12 - Notes and rules for 11](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/12%20-%20Notes%20and%20rules%20for%2011.png)
 - [13 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/13%20-%20Types%20by%20boxes.png)
-- [13b - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/13b%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [13b - Types by boxes - Sphere](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/13b%20-%20Types%20by%20boxes%20-%20Sphere.png)
 - [14 - Notes and rules for 13](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/14%20-%20Notes%20and%20rules%20for%2013.png)
 
 ## Player-Tesser
@@ -101,9 +101,9 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 - [31 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/31%20-%20Box%20chart.png)
 - [32 - Notes and rules for 31](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/32%20-%20Notes%20and%20rules%20for%2031.png)
 - [33 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33%20-%20Types%20by%20boxes.png)
-- [33b - Types by boxes - Reflection, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [33c - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [33d - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [33b - Types by boxes - Reflection](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33b%20-%20Types%20by%20boxes%20-%20Reflection.png)
+- [33c - Types by boxes - Sphere](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33c%20-%20Types%20by%20boxes%20-%20Sphere.png)
+- [33d - Types by boxes - Franken](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33d%20-%20Types%20by%20boxes%20-%20Franken.png)
 - [34 - Notes and rules for 33](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/34%20-%20Notes%20and%20rules%20for%2033.png)
 
 ## Turret Detection Plate
@@ -111,9 +111,9 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 - [35 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/35%20-%20Box%20chart.png)
 - [36 - Notes and rules for 35](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/36%20-%20Notes%20and%20rules%20for%2035.png)
 - [37 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37%20-%20Types%20by%20boxes.png)
-- [37b - Types by boxes - Reflection, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [37c - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [37d - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [37b - Types by boxes - Reflection](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37b%20-%20Types%20by%20boxes%20-%20Reflection.png)
+- [37c - Types by boxes - Sphere](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37c%20-%20Types%20by%20boxes%20-%20Sphere.png)
+- [37d - Types by boxes - Franken](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/37d%20-%20Types%20by%20boxes%20-%20Franken.png)
 - [38 - Notes and rules for 37](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate/38%20-%20Notes%20and%20rules%20for%2037.png)
 
 ## Remote-Control Device (Universal Remote)
@@ -121,9 +121,9 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 - [39 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/39%20-%20Box%20chart.png)
 - [40 - Notes and rules for 39](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/40%20-%20Notes%20and%20rules%20for%2039.png)
 - [41 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41%20-%20Types%20by%20boxes.png)
-- [41b - Types by boxes - Reflective, every pair, then no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41b%20-%20Types%20by%20boxes%20-%20Reflective%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [41c - Types by boxes - Sphere, every pair, then no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [41d - Types by boxes - Franken, every pair, then no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [41b - Types by boxes - Reflective](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41b%20-%20Types%20by%20boxes%20-%20Reflective.png)
+- [41c - Types by boxes - Sphere](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41c%20-%20Types%20by%20boxes%20-%20Sphere.png)
+- [41d - Types by boxes - Franken](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41d%20-%20Types%20by%20boxes%20-%20Franken.png)
 - [42 - Notes and rules for 41](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/42%20-%20Notes%20and%20rules%20for%2041.png)
 
 ## Projectile Detection-Retention Filter
