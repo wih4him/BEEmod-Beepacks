@@ -2,7 +2,7 @@
  {
   "item": "T-Stop/Slow",
   "title": "T-Stop/Slow: box chart",
-  "short": "Box chart",
+  "short": "box chart",
   "drawn": "drawn for one pack 2_33",
   "src": "T-Stop-Slow/1 - T-Stop-Slow - box chart.png"
  },
@@ -12,6 +12,13 @@
   "short": "Timer by checkboxes",
   "drawn": "drawn for one pack 2_33",
   "src": "T-Stop-Slow/2 - T-Stop-Slow - Timer by checkboxes.png"
+ },
+ {
+  "item": "T-Stop/Slow",
+  "title": "T-Stop/Slow: Cube Types by checkboxes",
+  "short": "Cube Types by checkboxes",
+  "drawn": "drawn for one pack 2_33",
+  "src": "T-Stop-Slow/3 - T-Stop-Slow - Cube Types by checkboxes.png"
  },
  {
   "item": "Zemeckis Cube",
