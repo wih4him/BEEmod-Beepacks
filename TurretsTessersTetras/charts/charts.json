@@ -99,17 +99,17 @@
  },
  {
   "item": "Tetrabutton (Tributton)",
-  "title": "Tetrabutton (Tributton): box chart, Button Type Weighted",
-  "short": "Box chart",
-  "drawn": "drawn for pressing #47, one pack 2.13",
-  "src": "Tetrabutton (Tributton)/1 - Tetrabutton (Tributton) - box chart, Button Type Weighted.png"
+  "title": "Tetrabutton (Tributton): box chart",
+  "short": "box chart",
+  "drawn": "drawn for one pack 2_33",
+  "src": "Tetrabutton (Tributton)/1 - Tetrabutton (Tributton) - box chart.png"
  },
  {
   "item": "Tetrabutton (Tributton)",
-  "title": "Tetrabutton (Tributton): Button Types by boxes",
-  "short": "Button Types by boxes",
-  "drawn": "drawn for pressing #47, one pack 2.13",
-  "src": "Tetrabutton (Tributton)/2 - Tetrabutton (Tributton) - Button Types by boxes.png"
+  "title": "Tetrabutton (Tributton): Button Types by checkboxes",
+  "short": "Button Types by checkboxes",
+  "drawn": "drawn for one pack 2_33",
+  "src": "Tetrabutton (Tributton)/2 - Tetrabutton (Tributton) - Button Types by checkboxes.png"
  },
  {
   "item": "Rotatable Faith Plate",

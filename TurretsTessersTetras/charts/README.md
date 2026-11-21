@@ -54,8 +54,8 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **Tetrabutton (Tributton)**
 
-- 15: [Tetrabutton (Tributton): box chart, Button Type Weighted](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/1%20-%20Tetrabutton%20%28Tributton%29%20-%20box%20chart%2C%20Button%20Type%20Weighted.png), drawn for pressing #47, one pack 2.13
-- 16: [Tetrabutton (Tributton): Button Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/2%20-%20Tetrabutton%20%28Tributton%29%20-%20Button%20Types%20by%20boxes.png), drawn for pressing #47, one pack 2.13
+- 15: [Tetrabutton (Tributton): box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/1%20-%20Tetrabutton%20%28Tributton%29%20-%20box%20chart.png), drawn for one pack 2_33
+- 16: [Tetrabutton (Tributton): Button Types by checkboxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/2%20-%20Tetrabutton%20%28Tributton%29%20-%20Button%20Types%20by%20checkboxes.png), drawn for one pack 2_33
 
 **Rotatable Faith Plate**
 
