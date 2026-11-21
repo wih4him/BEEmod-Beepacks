@@ -148,8 +148,10 @@
  },
  {
   "item": "Remote-Control Device (Universal Remote)",
-  "title": "Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13: boxes by boxes, for each Cube Type",
-  "src": "Remote-Control Device (Universal Remote)/2 - Turret-Portal and Focused-Energy Remote-Control Device, one pack 2_13 - boxes by boxes, for each Cube Type.png"
+  "title": "Remote-Control Device (Universal Remote): Cube Types by checkboxes",
+  "src": "Remote-Control Device (Universal Remote)/2 - Remote-Control Device (Universal Remote) - Cube Types by checkboxes.png",
+  "short": "Cube Types by checkboxes",
+  "drawn": "drawn for one pack 2_33"
  },
  {
   "item": "Projectile Detection-Retention Filter",
