@@ -41,7 +41,7 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 **Portal Cube**
 
 - 10: [Portal Cube: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/1%20-%20Portal%20Cube%20-%20box%20chart.png), drawn for one pack 2_13
-- 11: [Portal Cube: Cube Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/2%20-%20Portal%20Cube%20-%20Cube%20Types%20by%20boxes.png), drawn for one pack 2_13
+- 11: [Portal Cube: Cube Types by checkboxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/2%20-%20Portal%20Cube%20-%20Cube%20Types%20by%20checkboxes.png), drawn for one pack 2_33
 
 **Turret Target Flip Panel**
 

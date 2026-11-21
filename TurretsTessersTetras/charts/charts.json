@@ -71,10 +71,10 @@
  },
  {
   "item": "Portal Cube",
-  "title": "Portal Cube: Cube Types by boxes",
-  "short": "Cube Types by boxes",
-  "drawn": "drawn for one pack 2_13",
-  "src": "Portal Cube/2 - Portal Cube - Cube Types by boxes.png"
+  "title": "Portal Cube: Cube Types by checkboxes",
+  "short": "Cube Types by checkboxes",
+  "drawn": "drawn for one pack 2_33",
+  "src": "Portal Cube/2 - Portal Cube - Cube Types by checkboxes.png"
  },
  {
   "item": "Turret Target Flip Panel",
