@@ -6,7 +6,7 @@ Every item's charts, item by item. Each item has up to three kinds of chart:
 - **Types by boxes**: the same, for each Cube Type, Button Type or Timer the item offers.
 - **Notes and rules**: the text that goes with the chart before it: what each colour and mark means, and the rules behind each cell.
 
-Open an item, start with its Box chart, then read its Notes and rules. The item's description in BEEmod has the short version.
+Open an item, start with its Box chart, then read its Notes and rules. Each link opens the chart at full size: click the picture to zoom in or out, and scroll or drag to move around it. The item's description in BEEmod has the short version.
 
 Each chart was drawn for the pressing named on it. Where an item changed later, its BEEmod description is the current word.
 
@@ -29,130 +29,120 @@ Each chart was drawn for the pressing named on it. Where an item changed later, 
 
 ## T-Stop-Slow
 
-- [01 - Box chart](T-Stop-Slow/01%20-%20Box%20chart.png)
-- [02 - Notes and rules for 01](T-Stop-Slow/02%20-%20Notes%20and%20rules%20for%2001.png)
-- [03 - Types by boxes](T-Stop-Slow/03%20-%20Types%20by%20boxes.png)
-- [04 - Notes and rules for 03](T-Stop-Slow/04%20-%20Notes%20and%20rules%20for%2003.png)
+- [01 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/01%20-%20Box%20chart.png)
+- [02 - Notes and rules for 01](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/02%20-%20Notes%20and%20rules%20for%2001.png)
+- [03 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/03%20-%20Types%20by%20boxes.png)
+- [04 - Notes and rules for 03](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/04%20-%20Notes%20and%20rules%20for%2003.png)
 
 ## Zemeckis Cube
 
-- [05 - Box chart](Zemeckis%20Cube/05%20-%20Box%20chart.png)
-- [06 - Notes and rules for 05](Zemeckis%20Cube/06%20-%20Notes%20and%20rules%20for%2005.png)
-- [07 - Timer by boxes](Zemeckis%20Cube/07%20-%20Timer%20by%20boxes.png)
-- [08 - Notes and rules for 07](Zemeckis%20Cube/08%20-%20Notes%20and%20rules%20for%2007.png)
+- [05 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Zemeckis%20Cube/05%20-%20Box%20chart.png)
+- [06 - Notes and rules for 05](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Zemeckis%20Cube/06%20-%20Notes%20and%20rules%20for%2005.png)
+- [07 - Timer by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Zemeckis%20Cube/07%20-%20Timer%20by%20boxes.png)
+- [08 - Notes and rules for 07](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Zemeckis%20Cube/08%20-%20Notes%20and%20rules%20for%2007.png)
 
 ## Tessers
 
-- [09 - Box chart](Tessers/09%20-%20Box%20chart.png)
-- [10 - Notes and rules for 09](Tessers/10%20-%20Notes%20and%20rules%20for%2009.png)
+- [09 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tessers/09%20-%20Box%20chart.png)
+- [10 - Notes and rules for 09](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tessers/10%20-%20Notes%20and%20rules%20for%2009.png)
 
 ## Multidimensional Button
 
-- [11 - Box chart](Multidimensional%20Button/11%20-%20Box%20chart.png)
-- [12 - Notes and rules for 11](Multidimensional%20Button/12%20-%20Notes%20and%20rules%20for%2011.png)
-- [13 - Types by boxes](Multidimensional%20Button/13%20-%20Types%20by%20boxes.png)
-- [13b - Types by boxes - Sphere, every pair, then no boxes](Multidimensional%20Button/13b%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [14 - Notes and rules for 13](Multidimensional%20Button/14%20-%20Notes%20and%20rules%20for%2013.png)
+- [11 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/11%20-%20Box%20chart.png)
+- [12 - Notes and rules for 11](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/12%20-%20Notes%20and%20rules%20for%2011.png)
+- [13 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/13%20-%20Types%20by%20boxes.png)
+- [13b - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/13b%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [14 - Notes and rules for 13](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Multidimensional%20Button/14%20-%20Notes%20and%20rules%20for%2013.png)
 
 ## Player-Tesser
 
-- [15 - Box chart](Player-Tesser/15%20-%20Box%20chart.png)
-- [16 - Notes and rules for 15](Player-Tesser/16%20-%20Notes%20and%20rules%20for%2015.png)
+- [15 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Player-Tesser/15%20-%20Box%20chart.png)
+- [16 - Notes and rules for 15](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Player-Tesser/16%20-%20Notes%20and%20rules%20for%2015.png)
 
 ## Portal Cube
 
-- [17 - Box chart](Portal%20Cube/17%20-%20Box%20chart.png)
-- [17b - Box chart - three boxes or more, 1 of 3](Portal%20Cube/17b%20-%20Box%20chart%20-%20three%20boxes%20or%20more%2C%201%20of%203.png)
-- [17c - Box chart - three boxes or more, 2 of 3](Portal%20Cube/17c%20-%20Box%20chart%20-%20three%20boxes%20or%20more%2C%202%20of%203.png)
-- [17d - Box chart - three boxes or more, 3 of 3](Portal%20Cube/17d%20-%20Box%20chart%20-%20three%20boxes%20or%20more%2C%203%20of%203.png)
-- [18 - Notes and rules for 17](Portal%20Cube/18%20-%20Notes%20and%20rules%20for%2017.png)
-- [19 - Types by boxes](Portal%20Cube/19%20-%20Types%20by%20boxes.png)
-- [19b - Types by boxes - Companion, every pair, then no boxes](Portal%20Cube/19b%20-%20Types%20by%20boxes%20-%20Companion%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [19c - Types by boxes - Companion, three boxes or more, 1 of 3](Portal%20Cube/19c%20-%20Types%20by%20boxes%20-%20Companion%2C%20three%20boxes%20or%20more%2C%201%20of%203.png)
-- [19d - Types by boxes - Companion, three boxes or more, 2 of 3](Portal%20Cube/19d%20-%20Types%20by%20boxes%20-%20Companion%2C%20three%20boxes%20or%20more%2C%202%20of%203.png)
-- [19e - Types by boxes - Companion, three boxes or more, 3 of 3](Portal%20Cube/19e%20-%20Types%20by%20boxes%20-%20Companion%2C%20three%20boxes%20or%20more%2C%203%20of%203.png)
-- [19f - Types by boxes - Reflection, every pair, then no boxes](Portal%20Cube/19f%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [19g - Types by boxes - Reflection, three boxes or more, 1 of 3](Portal%20Cube/19g%20-%20Types%20by%20boxes%20-%20Reflection%2C%20three%20boxes%20or%20more%2C%201%20of%203.png)
-- [19h - Types by boxes - Reflection, three boxes or more, 2 of 3](Portal%20Cube/19h%20-%20Types%20by%20boxes%20-%20Reflection%2C%20three%20boxes%20or%20more%2C%202%20of%203.png)
-- [19i - Types by boxes - Reflection, three boxes or more, 3 of 3](Portal%20Cube/19i%20-%20Types%20by%20boxes%20-%20Reflection%2C%20three%20boxes%20or%20more%2C%203%20of%203.png)
-- [19j - Types by boxes - Sphere, every pair, then no boxes](Portal%20Cube/19j%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [19k - Types by boxes - Sphere, three boxes or more, 1 of 3](Portal%20Cube/19k%20-%20Types%20by%20boxes%20-%20Sphere%2C%20three%20boxes%20or%20more%2C%201%20of%203.png)
-- [19l - Types by boxes - Sphere, three boxes or more, 2 of 3](Portal%20Cube/19l%20-%20Types%20by%20boxes%20-%20Sphere%2C%20three%20boxes%20or%20more%2C%202%20of%203.png)
-- [19m - Types by boxes - Sphere, three boxes or more, 3 of 3](Portal%20Cube/19m%20-%20Types%20by%20boxes%20-%20Sphere%2C%20three%20boxes%20or%20more%2C%203%20of%203.png)
-- [19n - Types by boxes - Franken, every pair, then no boxes](Portal%20Cube/19n%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [19o - Types by boxes - Franken, three boxes or more, 1 of 3](Portal%20Cube/19o%20-%20Types%20by%20boxes%20-%20Franken%2C%20three%20boxes%20or%20more%2C%201%20of%203.png)
-- [19p - Types by boxes - Franken, three boxes or more, 2 of 3](Portal%20Cube/19p%20-%20Types%20by%20boxes%20-%20Franken%2C%20three%20boxes%20or%20more%2C%202%20of%203.png)
-- [19q - Types by boxes - Franken, three boxes or more, 3 of 3](Portal%20Cube/19q%20-%20Types%20by%20boxes%20-%20Franken%2C%20three%20boxes%20or%20more%2C%203%20of%203.png)
-- [20 - Notes and rules for 19](Portal%20Cube/20%20-%20Notes%20and%20rules%20for%2019.png)
+- [17 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/17%20-%20Box%20chart.png)
+- [17b - Box chart - three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/17b%20-%20Box%20chart%20-%20three%20boxes%20or%20more.png)
+- [18 - Notes and rules for 17](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/18%20-%20Notes%20and%20rules%20for%2017.png)
+- [19 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19%20-%20Types%20by%20boxes.png)
+- [19b - Types by boxes - Companion, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19b%20-%20Types%20by%20boxes%20-%20Companion%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [19c - Types by boxes - Companion, three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19c%20-%20Types%20by%20boxes%20-%20Companion%2C%20three%20boxes%20or%20more.png)
+- [19f - Types by boxes - Reflection, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19f%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [19g - Types by boxes - Reflection, three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19g%20-%20Types%20by%20boxes%20-%20Reflection%2C%20three%20boxes%20or%20more.png)
+- [19j - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19j%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [19k - Types by boxes - Sphere, three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19k%20-%20Types%20by%20boxes%20-%20Sphere%2C%20three%20boxes%20or%20more.png)
+- [19n - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19n%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [19o - Types by boxes - Franken, three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/19o%20-%20Types%20by%20boxes%20-%20Franken%2C%20three%20boxes%20or%20more.png)
+- [20 - Notes and rules for 19](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Portal%20Cube/20%20-%20Notes%20and%20rules%20for%2019.png)
 
 ## Turret Target Flip Panel
 
-- [21 - Box chart with pictures](Turret%20Target%20Flip%20Panel/21%20-%20Box%20chart%20with%20pictures.png)
-- [22 - Notes and rules](Turret%20Target%20Flip%20Panel/22%20-%20Notes%20and%20rules.png)
+- [21 - Box chart with pictures](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Target%20Flip%20Panel/21%20-%20Box%20chart%20with%20pictures.png)
+- [22 - Notes and rules](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Target%20Flip%20Panel/22%20-%20Notes%20and%20rules.png)
 - Earlier versions:
-  - [21 - Box chart](Turret%20Target%20Flip%20Panel/older/21%20-%20Box%20chart.png)
-  - [22 - Notes and rules for 21](Turret%20Target%20Flip%20Panel/older/22%20-%20Notes%20and%20rules%20for%2021.png)
+  - [21 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Target%20Flip%20Panel/older/21%20-%20Box%20chart.png)
+  - [22 - Notes and rules for 21](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Target%20Flip%20Panel/older/22%20-%20Notes%20and%20rules%20for%2021.png)
 
 ## Tetrahedral Cube
 
-- [23 - Box chart](Tetrahedral%20Cube/23%20-%20Box%20chart.png)
-- [23b - Box chart - no boxes and three boxes or more](Tetrahedral%20Cube/23b%20-%20Box%20chart%20-%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [24 - Notes and rules for 23](Tetrahedral%20Cube/24%20-%20Notes%20and%20rules%20for%2023.png)
-- [25 - Cube types by boxes](Tetrahedral%20Cube/25%20-%20Cube%20types%20by%20boxes.png)
-- [25b - Cube types by boxes - Standard, no boxes and three boxes or more](Tetrahedral%20Cube/25b%20-%20Cube%20types%20by%20boxes%20-%20Standard%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [25c - Cube types by boxes - Companion, every pair](Tetrahedral%20Cube/25c%20-%20Cube%20types%20by%20boxes%20-%20Companion%2C%20every%20pair.png)
-- [25d - Cube types by boxes - Companion, no boxes and three boxes or more](Tetrahedral%20Cube/25d%20-%20Cube%20types%20by%20boxes%20-%20Companion%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [25e - Cube types by boxes - Reflection, every pair](Tetrahedral%20Cube/25e%20-%20Cube%20types%20by%20boxes%20-%20Reflection%2C%20every%20pair.png)
-- [25f - Cube types by boxes - Reflection, no boxes and three boxes or more](Tetrahedral%20Cube/25f%20-%20Cube%20types%20by%20boxes%20-%20Reflection%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [25g - Cube types by boxes - Old-Style, every pair](Tetrahedral%20Cube/25g%20-%20Cube%20types%20by%20boxes%20-%20Old-Style%2C%20every%20pair.png)
-- [25h - Cube types by boxes - Old-Style, no boxes and three boxes or more](Tetrahedral%20Cube/25h%20-%20Cube%20types%20by%20boxes%20-%20Old-Style%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [25i - Cube types by boxes - IcosoKey, every pair](Tetrahedral%20Cube/25i%20-%20Cube%20types%20by%20boxes%20-%20IcosoKey%2C%20every%20pair.png)
-- [25j - Cube types by boxes - IcosoKey, no boxes and three boxes or more](Tetrahedral%20Cube/25j%20-%20Cube%20types%20by%20boxes%20-%20IcosoKey%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [26 - Notes and rules for 25](Tetrahedral%20Cube/26%20-%20Notes%20and%20rules%20for%2025.png)
+- [23 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/23%20-%20Box%20chart.png)
+- [23b - Box chart - no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/23b%20-%20Box%20chart%20-%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [24 - Notes and rules for 23](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/24%20-%20Notes%20and%20rules%20for%2023.png)
+- [25 - Cube types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25%20-%20Cube%20types%20by%20boxes.png)
+- [25b - Cube types by boxes - Standard, no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25b%20-%20Cube%20types%20by%20boxes%20-%20Standard%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [25c - Cube types by boxes - Companion, every pair](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25c%20-%20Cube%20types%20by%20boxes%20-%20Companion%2C%20every%20pair.png)
+- [25d - Cube types by boxes - Companion, no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25d%20-%20Cube%20types%20by%20boxes%20-%20Companion%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [25e - Cube types by boxes - Reflection, every pair](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25e%20-%20Cube%20types%20by%20boxes%20-%20Reflection%2C%20every%20pair.png)
+- [25f - Cube types by boxes - Reflection, no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25f%20-%20Cube%20types%20by%20boxes%20-%20Reflection%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [25g - Cube types by boxes - Old-Style, every pair](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25g%20-%20Cube%20types%20by%20boxes%20-%20Old-Style%2C%20every%20pair.png)
+- [25h - Cube types by boxes - Old-Style, no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25h%20-%20Cube%20types%20by%20boxes%20-%20Old-Style%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [25i - Cube types by boxes - IcosoKey, every pair](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25i%20-%20Cube%20types%20by%20boxes%20-%20IcosoKey%2C%20every%20pair.png)
+- [25j - Cube types by boxes - IcosoKey, no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/25j%20-%20Cube%20types%20by%20boxes%20-%20IcosoKey%2C%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [26 - Notes and rules for 25](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrahedral%20Cube/26%20-%20Notes%20and%20rules%20for%2025.png)
 
 ## Tetrabutton (Tributton)
 
-- [27 - Box chart](Tetrabutton%20%28Tributton%29/27%20-%20Box%20chart.png)
-- [28 - Notes and rules for 27](Tetrabutton%20%28Tributton%29/28%20-%20Notes%20and%20rules%20for%2027.png)
-- [29 - Button types by boxes](Tetrabutton%20%28Tributton%29/29%20-%20Button%20types%20by%20boxes.png)
-- [30 - Notes and rules for 29](Tetrabutton%20%28Tributton%29/30%20-%20Notes%20and%20rules%20for%2029.png)
+- [27 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/27%20-%20Box%20chart.png)
+- [28 - Notes and rules for 27](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/28%20-%20Notes%20and%20rules%20for%2027.png)
+- [29 - Button types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/29%20-%20Button%20types%20by%20boxes.png)
+- [30 - Notes and rules for 29](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Tetrabutton%20%28Tributton%29/30%20-%20Notes%20and%20rules%20for%2029.png)
 
 ## Rotatable Faith Plate
 
-- [31 - Box chart](Rotatable%20Faith%20Plate/31%20-%20Box%20chart.png)
-- [32 - Notes and rules for 31](Rotatable%20Faith%20Plate/32%20-%20Notes%20and%20rules%20for%2031.png)
-- [33 - Types by boxes](Rotatable%20Faith%20Plate/33%20-%20Types%20by%20boxes.png)
-- [33b - Types by boxes - Reflection, every pair, then no boxes](Rotatable%20Faith%20Plate/33b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [33c - Types by boxes - Sphere, every pair, then no boxes](Rotatable%20Faith%20Plate/33c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [33d - Types by boxes - Franken, every pair, then no boxes](Rotatable%20Faith%20Plate/33d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [34 - Notes and rules for 33](Rotatable%20Faith%20Plate/34%20-%20Notes%20and%20rules%20for%2033.png)
+- [31 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/31%20-%20Box%20chart.png)
+- [32 - Notes and rules for 31](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/32%20-%20Notes%20and%20rules%20for%2031.png)
+- [33 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33%20-%20Types%20by%20boxes.png)
+- [33b - Types by boxes - Reflection, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [33c - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [33d - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/33d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [34 - Notes and rules for 33](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Rotatable%20Faith%20Plate/34%20-%20Notes%20and%20rules%20for%2033.png)
 
 ## Turret Detection Plate (AND)
 
-- [35 - Box chart](Turret%20Detection%20Plate%20%28AND%29/35%20-%20Box%20chart.png)
-- [36 - Notes and rules for 35](Turret%20Detection%20Plate%20%28AND%29/36%20-%20Notes%20and%20rules%20for%2035.png)
-- [37 - Types by boxes](Turret%20Detection%20Plate%20%28AND%29/37%20-%20Types%20by%20boxes.png)
-- [37b - Types by boxes - Reflection, every pair, then no boxes](Turret%20Detection%20Plate%20%28AND%29/37b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [37c - Types by boxes - Sphere, every pair, then no boxes](Turret%20Detection%20Plate%20%28AND%29/37c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [37d - Types by boxes - Franken, every pair, then no boxes](Turret%20Detection%20Plate%20%28AND%29/37d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
-- [38 - Notes and rules for 37](Turret%20Detection%20Plate%20%28AND%29/38%20-%20Notes%20and%20rules%20for%2037.png)
+- [35 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/35%20-%20Box%20chart.png)
+- [36 - Notes and rules for 35](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/36%20-%20Notes%20and%20rules%20for%2035.png)
+- [37 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37%20-%20Types%20by%20boxes.png)
+- [37b - Types by boxes - Reflection, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37b%20-%20Types%20by%20boxes%20-%20Reflection%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [37c - Types by boxes - Sphere, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [37d - Types by boxes - Franken, every pair, then no boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/37d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes.png)
+- [38 - Notes and rules for 37](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Detection%20Plate%20%28AND%29/38%20-%20Notes%20and%20rules%20for%2037.png)
 
 ## Remote-Control Device (Universal Remote)
 
-- [39 - Box chart](Remote-Control%20Device%20%28Universal%20Remote%29/39%20-%20Box%20chart.png)
-- [40 - Notes and rules for 39](Remote-Control%20Device%20%28Universal%20Remote%29/40%20-%20Notes%20and%20rules%20for%2039.png)
-- [41 - Types by boxes](Remote-Control%20Device%20%28Universal%20Remote%29/41%20-%20Types%20by%20boxes.png)
-- [41b - Types by boxes - Reflective, every pair, then no boxes and three boxes or more](Remote-Control%20Device%20%28Universal%20Remote%29/41b%20-%20Types%20by%20boxes%20-%20Reflective%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [41c - Types by boxes - Sphere, every pair, then no boxes and three boxes or more](Remote-Control%20Device%20%28Universal%20Remote%29/41c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [41d - Types by boxes - Franken, every pair, then no boxes and three boxes or more](Remote-Control%20Device%20%28Universal%20Remote%29/41d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
-- [42 - Notes and rules for 41](Remote-Control%20Device%20%28Universal%20Remote%29/42%20-%20Notes%20and%20rules%20for%2041.png)
+- [39 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/39%20-%20Box%20chart.png)
+- [40 - Notes and rules for 39](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/40%20-%20Notes%20and%20rules%20for%2039.png)
+- [41 - Types by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41%20-%20Types%20by%20boxes.png)
+- [41b - Types by boxes - Reflective, every pair, then no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41b%20-%20Types%20by%20boxes%20-%20Reflective%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [41c - Types by boxes - Sphere, every pair, then no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41c%20-%20Types%20by%20boxes%20-%20Sphere%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [41d - Types by boxes - Franken, every pair, then no boxes and three boxes or more](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/41d%20-%20Types%20by%20boxes%20-%20Franken%2C%20every%20pair%2C%20then%20no%20boxes%20and%20three%20boxes%20or%20more.png)
+- [42 - Notes and rules for 41](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Remote-Control%20Device%20%28Universal%20Remote%29/42%20-%20Notes%20and%20rules%20for%2041.png)
 
 ## Projectile Detection-Retention Filter
 
-- [43 - Box chart](Projectile%20Detection-Retention%20Filter/43%20-%20Box%20chart.png)
-- [44 - Notes and rules for 43](Projectile%20Detection-Retention%20Filter/44%20-%20Notes%20and%20rules%20for%2043.png)
+- [43 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Projectile%20Detection-Retention%20Filter/43%20-%20Box%20chart.png)
+- [44 - Notes and rules for 43](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Projectile%20Detection-Retention%20Filter/44%20-%20Notes%20and%20rules%20for%2043.png)
 
 ## Turret Recharging Station
 
-- [45 - Box chart](Turret%20Recharging%20Station/45%20-%20Box%20chart.png)
-- [46 - Notes and rules for 45](Turret%20Recharging%20Station/46%20-%20Notes%20and%20rules%20for%2045.png)
+- [45 - Box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Recharging%20Station/45%20-%20Box%20chart.png)
+- [46 - Notes and rules for 45](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/Turret%20Recharging%20Station/46%20-%20Notes%20and%20rules%20for%2045.png)
