@@ -3,15 +3,15 @@
   "item": "T-Stop/Slow",
   "title": "T-Stop/Slow: box chart",
   "short": "Box chart",
-  "drawn": "drawn for pressing #34",
+  "drawn": "drawn for one pack 2_33",
   "src": "T-Stop-Slow/1 - T-Stop-Slow - box chart.png"
  },
  {
   "item": "T-Stop/Slow",
-  "title": "T-Stop/Slow: Timer by boxes",
-  "short": "Timer by boxes",
-  "drawn": "drawn for pressing #34",
-  "src": "T-Stop-Slow/2 - T-Stop-Slow - Timer by boxes.png"
+  "title": "T-Stop/Slow: Timer by checkboxes",
+  "short": "Timer by checkboxes",
+  "drawn": "drawn for one pack 2_33",
+  "src": "T-Stop-Slow/2 - T-Stop-Slow - Timer by checkboxes.png"
  },
  {
   "item": "Zemeckis Cube",

@@ -16,8 +16,8 @@ Each chart was drawn for the pressing named beside it. Where an item changed lat
 
 **T-Stop/Slow**
 
-- 1: [T-Stop/Slow: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/1%20-%20T-Stop-Slow%20-%20box%20chart.png), drawn for pressing #34
-- 2: [T-Stop/Slow: Timer by boxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/2%20-%20T-Stop-Slow%20-%20Timer%20by%20boxes.png), drawn for pressing #34
+- 1: [T-Stop/Slow: box chart](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/1%20-%20T-Stop-Slow%20-%20box%20chart.png), drawn for one pack 2_33
+- 2: [T-Stop/Slow: Timer by checkboxes](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/charts/T-Stop-Slow/2%20-%20T-Stop-Slow%20-%20Timer%20by%20checkboxes.png), drawn for one pack 2_33
 
 **Zemeckis Cube**
 
