@@ -43,8 +43,10 @@
  },
  {
   "item": "Multidimensional Button",
-  "title": "Multidimensional Button, one pack 2_13: boxes by boxes, for each Button Type",
-  "src": "Multidimensional Button/2 - Multidimensional Button, one pack 2_13 - boxes by boxes, for each Button Type.png"
+  "title": "Multidimensional Button: Button Types by checkboxes",
+  "src": "Multidimensional Button/2 - Multidimensional Button - Button Types by checkboxes.png",
+  "short": "Button Types by checkboxes",
+  "drawn": "drawn for one pack 2_33"
  },
  {
   "item": "Player-Tesser",
