@@ -34,7 +34,7 @@ Every item's box charts are in [charts](charts/README.md): what each item does f
 
 ## Installing
 
-Download [`U_WIH_G_TURRETSTESSERSTETRAS_2_35.bee_pack`](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/U_WIH_G_TURRETSTESSERSTETRAS_2_35.bee_pack) and put it in BEEmod's `packages` folder. Then restart BEEmod.
+Download [`U_WIH_G_TURRETSTESSERSTETRAS_2_36.bee_pack`](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/U_WIH_G_TURRETSTESSERSTETRAS_2_36.bee_pack) and put it in BEEmod's `packages` folder. Then restart BEEmod.
 
 **Updating from an older version:** each version has its own item IDs, so BEEmod cannot export a palette that still holds items from an older version. Take the old items out of the palette and put the new ones in. Remove the older `.bee_pack` from the `packages` folder too.
 

@@ -1,6 +1,6 @@
 # TurretsTessersTetras charts
 
-Tap a chart's name to open it (on a phone, pinch to zoom). On a computer, "full size" opens the picture itself, where a click zooms in. Every chart is drawn for the current pack (one pack 2_35; items unchanged since an earlier pack keep that pack's charts), with a picture of each version, and its notes at the bottom.
+Tap a chart's name to open it (on a phone, pinch to zoom). On a computer, "full size" opens the picture itself, where a click zooms in. Every chart is drawn for the current pack (one pack 2_36; items unchanged since an earlier pack keep that pack's charts), with a picture of each version, and its notes at the bottom.
 
 - **Box chart**: every checkbox and input against every other.
 - **Types by checkboxes**: every Cube Type or Button Type against every checkbox.
