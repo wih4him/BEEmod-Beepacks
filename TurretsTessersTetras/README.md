@@ -34,7 +34,7 @@ Every item's box charts are in [charts](charts/README.md): what each item does f
 
 ## Installing
 
-Download [`U_WIH_G_TURRETSTESSERSTETRAS_2_36.bee_pack`](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/U_WIH_G_TURRETSTESSERSTETRAS_2_36.bee_pack) and put it in BEEmod's `packages` folder. Then restart BEEmod.
+Download [`U_WIH_G_TURRETSTESSERSTETRAS_2_46.bee_pack`](https://github.com/wih4him/BEEmod-Beepacks/raw/main/TurretsTessersTetras/U_WIH_G_TURRETSTESSERSTETRAS_2_46.bee_pack) and put it in BEEmod's `packages` folder. Then restart BEEmod.
 
 **Updating from an older version:** each version has its own item IDs, so BEEmod cannot export a palette that still holds items from an older version. Take the old items out of the palette and put the new ones in. Remove the older `.bee_pack` from the `packages` folder too.
 
@@ -59,3 +59,5 @@ These saves stay after the pack is removed. They show in Portal 2's Load Game li
 A big thank-you to Valve and the Portal 2 team, and to the entire BEEmod community. Their game and mod made this set of items possible.
 
 The Portal Cube's Target and the Turret Target Flip Panel follow the Target Cube and target flip panel concepts of the Portal: Ballistics Elements team (Wonderland_War, asd417, garmezon, Snazz and canister0), used with permission, and the Turret Recharging Station grew from an idea by Wonderland_War.
+
+The artwork of the tetra set (the Tetrahedral Cube and the Tetrabutton) is by Hazel, used with permission.
