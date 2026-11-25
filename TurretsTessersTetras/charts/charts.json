@@ -3,35 +3,35 @@
   "item": "T-Stop/Slow",
   "title": "T-Stop/Slow: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "T-Stop-Slow/1 - T-Stop-Slow - box chart.png"
  },
  {
   "item": "T-Stop/Slow",
   "title": "T-Stop/Slow: Timer by checkboxes",
   "short": "Timer by checkboxes",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "T-Stop-Slow/2 - T-Stop-Slow - Timer by checkboxes.png"
  },
  {
   "item": "T-Stop/Slow",
   "title": "T-Stop/Slow: Cube Types by checkboxes",
   "short": "Cube Types by checkboxes",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "T-Stop-Slow/3 - T-Stop-Slow - Cube Types by checkboxes.png"
  },
  {
   "item": "Zemeckis Cube",
   "title": "Zemeckis Cube: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Zemeckis Cube/1 - Zemeckis Cube - box chart.png"
  },
  {
   "item": "Zemeckis Cube",
   "title": "Zemeckis Cube: Timer by checkboxes",
   "short": "Timer by checkboxes",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Zemeckis Cube/2 - Zemeckis Cube - Timer by checkboxes.png"
  },
  {
@@ -45,7 +45,7 @@
   "item": "Multidimensional Button",
   "title": "Multidimensional Button: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Multidimensional Button/1 - Multidimensional Button - box chart.png"
  },
  {
@@ -53,48 +53,48 @@
   "title": "Multidimensional Button: Button Types by checkboxes",
   "src": "Multidimensional Button/2 - Multidimensional Button - Button Types by checkboxes.png",
   "short": "Button Types by checkboxes",
-  "drawn": "drawn for one pack 2_33"
+  "drawn": "drawn for one pack 2_47"
  },
  {
   "item": "Player-Tesser",
   "title": "Player-Tesser: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Player-Tesser/1 - Player-Tesser - box chart.png"
  },
  {
   "item": "Portal Cube",
   "title": "Portal Cube: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_34",
+  "drawn": "drawn for one pack 2_47",
   "src": "Portal Cube/1 - Portal Cube - box chart.png"
  },
  {
   "item": "Portal Cube",
   "title": "Portal Cube: Cube Types by checkboxes",
   "short": "Cube Types by checkboxes",
-  "drawn": "drawn for one pack 2_34",
+  "drawn": "drawn for one pack 2_47",
   "src": "Portal Cube/2 - Portal Cube - Cube Types by checkboxes.png"
  },
  {
   "item": "Turret Target Flip Panel",
   "title": "Turret Target Flip Panel: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Turret Target Flip Panel/1 - Turret Target Flip Panel - box chart.png"
  },
  {
   "item": "Turret Target Flip Panel",
   "title": "Turret Target Flip Panel: box chart (simple version)",
   "short": "Box chart (simple version)",
-  "drawn": "drawn for one pack 2_13; words only, no pictures in the cells",
+  "drawn": "drawn for one pack 2_47",
   "src": "Turret Target Flip Panel/2 - Turret Target Flip Panel - box chart (simple version).png"
  },
  {
   "item": "Tetrahedral Cube",
   "title": "Tetrahedral Cube: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_35",
+  "drawn": "drawn for one pack 2_47",
   "src": "Tetrahedral Cube/1 - Tetrahedral Cube - box chart.png"
  },
  {
@@ -102,20 +102,20 @@
   "title": "Tetrahedral Cube: Cube Types by checkboxes",
   "src": "Tetrahedral Cube/2 - Tetrahedral Cube - Cube Types by checkboxes.png",
   "short": "Cube Types by checkboxes",
-  "drawn": "drawn for one pack 2_35"
+  "drawn": "drawn for one pack 2_47"
  },
  {
   "item": "Tetrabutton (Tributton)",
   "title": "Tetrabutton (Tributton): box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_36",
+  "drawn": "drawn for one pack 2_47",
   "src": "Tetrabutton (Tributton)/1 - Tetrabutton (Tributton) - box chart.png"
  },
  {
   "item": "Tetrabutton (Tributton)",
   "title": "Tetrabutton (Tributton): Button Types by checkboxes",
   "short": "Button Types by checkboxes",
-  "drawn": "drawn for one pack 2_36",
+  "drawn": "drawn for one pack 2_47",
   "src": "Tetrabutton (Tributton)/2 - Tetrabutton (Tributton) - Button Types by checkboxes.png"
  },
  {
@@ -136,7 +136,7 @@
   "item": "Turret Detection Plate",
   "title": "Turret Detection Plate: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Turret Detection Plate/1 - Turret Detection Plate - box chart.png"
  },
  {
@@ -144,7 +144,7 @@
   "title": "Turret Detection Plate: Cube Types by checkboxes",
   "src": "Turret Detection Plate/2 - Turret Detection Plate - Cube Types by checkboxes.png",
   "short": "Cube Types by checkboxes",
-  "drawn": "drawn for one pack 2_33"
+  "drawn": "drawn for one pack 2_47"
  },
  {
   "item": "Remote-Control Device (Universal Remote)",
@@ -164,14 +164,14 @@
   "item": "Projectile Detection-Retention Filter",
   "title": "Projectile Detection-Retention Filter: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Projectile Detection-Retention Filter/1 - Projectile Detection-Retention Filter - box chart.png"
  },
  {
   "item": "Turret Recharging Station",
   "title": "Turret Recharging Station: box chart",
   "short": "Box chart",
-  "drawn": "drawn for one pack 2_33",
+  "drawn": "drawn for one pack 2_47",
   "src": "Turret Recharging Station/1 - Turret Recharging Station - box chart.png"
  }
 ]
